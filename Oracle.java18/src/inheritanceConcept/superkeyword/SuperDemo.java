@@ -20,6 +20,9 @@ public class SuperDemo {
 		
 		BoxWeight mybox4=new BoxWeight(10,20);
 		mybox4.show();
+		
+		new Child();
+		new Child(10);
 	}
 
 }
